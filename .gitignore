@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.env
+.env.*
+# Generated reports
+**/reports/
+
+# Local exploration scripts (any file starting with test_ at project root)
+/test_*.py
+/scratch_*.py
+/explore_*.py
+
+# Local Markdown experiments
+/test-*.md
+/scratch-*.md
