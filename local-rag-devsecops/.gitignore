@@ -1,0 +1,6 @@
+
+# Local playground (kept on dev machine only)
+playground/
+
+# Demo ChromaDB instances (created by playground scripts)
+vectordb_demo/
