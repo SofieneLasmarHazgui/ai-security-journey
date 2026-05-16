@@ -229,3 +229,10 @@ __marimo__/
 # Local Markdown experiments
 /test-*.md
 /scratch-*.md
+
+# ===== local-rag-devsecops specific =====
+local-rag-devsecops/vectordb/
+local-rag-devsecops/vectordb_demo/
+local-rag-devsecops/docs/
+!local-rag-devsecops/docs/README.md
+local-rag-devsecops/playground/
